@@ -9,7 +9,7 @@ This project is dedicated to showcasing proficiency in identifying ICMP (Interne
 <h2>Program walk-through:</h2>
 In a fictional scenario involving a simulated DDoS (Distributed Denial of Service) attack on a company, this project delves into the realm of incident response and cybersecurity analysis. As the designated cybersecurity analyst for the imaginary company, the focus was on investigating and mitigating the impact of the DDoS attack.
 <p align="center">
-Image and Explanation: <br/>
+<b>Image and Explanation: </b><br/>
 <img src="https://i.imgur.com/Q0c9qzL.png" height="80%" width="80%" alt="Replit Image"/>
 
 The UDP protocol reveals that the DNS server is down or unreachable. As
